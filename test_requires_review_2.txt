@@ -1,0 +1,26 @@
+HACCP Production Record
+Facility: FreshBite Foods Pvt. Ltd.
+Product: Ready-to-Eat Chicken Wrap
+Batch: HACCP_Requires_Review_Demo
+Audit Scenario: REQUIRES REVIEW
+
+| Field | Value |
+| Receiving Temperature | 3°C |
+| Cooking Temperature | 75°C |
+| Cooling Time | 110 min |
+| Cold Storage | 5°C |
+| Supervisor Signature | Present |
+| Sanitation Checklist | Completed |
+| Calibration Certificate | Missing |
+| Weekly HACCP Audit | Pending evidence |
+
+Hazard Analysis
+Hazard analysis completed, but signed approval page is not attached.
+
+CCP Monitoring
+Receiving log unsigned.
+Cooking verified but attachment missing.
+Final temperature field blank.
+
+Verification & Record Keeping
+Core process appears compliant, but calibration certificate, supplier signature and sanitation verification report are missing. Human auditor review required.

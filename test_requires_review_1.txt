@@ -1,0 +1,19 @@
+HACCP Production Record – Requires Review Example
+Audit Status: REQUIRES REVIEW
+
+Facility Details
+Facility: FreshBite Foods Pvt. Ltd.
+Product: Ready-to-Eat Chicken Wrap
+Batch: RR-2026-0815
+
+Observations
+Receiving temperature: 5°C
+Supplier signature missing
+Cooking reached 75°C
+Final cooling temperature not recorded
+Calibration certificate not attached
+Swab report pending
+
+Review Notes
+No confirmed critical violation
+Additional evidence required before approval

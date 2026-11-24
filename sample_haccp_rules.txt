@@ -1,0 +1,29 @@
+USDA / FDA HACCP Standard Operating Rules & Critical Limits for Poultry Processing
+
+1. Hazard Analysis & General Requirements
+A comprehensive written hazard analysis identifying biological (Salmonella, Campylobacter, Listeria monocytogenes), chemical, and physical hazards must be maintained for all processes and CCPs.
+
+2. Receiving Critical Control Point (CCP 1 - Receiving)
+- Critical Limit: Raw poultry and refrigerated ingredients must be received at an internal temperature of 4°C (40°F) or below. Receiving at temperatures above 4°C represents a temperature abuse violation.
+- Monitoring: Each shipment must have temperatures verified and logged. Receiving logs must be signed by the receiving operator and reviewed by the supervisor.
+
+3. Cooking Critical Control Point (CCP 2 - Cooking / Thermal Processing)
+- Critical Limit: Ready-to-eat chicken products must achieve a minimum internal cooking temperature of 74°C (165°F) to ensure lethality of vegetative pathogens including Salmonella.
+- Monitoring: Internal temperature must be verified with a calibrated digital temperature probe for every batch.
+- Corrective Action: Any product cooked below 74°C must either be immediately re-cooked to reach 74°C or condemned and placed on quarantine hold. Product must not be released.
+
+4. Cooling Critical Control Point (CCP 3 - Chilling / Cooling)
+- Critical Limit: Cooked product must be cooled rapidly: from 60°C down to 21°C within 120 minutes (2 hours). Cooling times exceeding 120 minutes without reaching safe temperature limits allow germination of spore-forming bacteria such as Clostridium perfringens.
+- Monitoring: Timestamps and temperature logs must be recorded at defined cooling intervals.
+
+5. Cold Storage & Holding
+- Critical Limit: Finished ready-to-eat refrigerated products must be held in cold storage at 4°C (40°F) or below at all times prior to distribution.
+
+6. Verification, Calibration & Record Keeping
+- Equipment Calibration: All temperature monitoring probes and instruments must have valid, up-to-date calibration certificates. Expired calibration invalidates CCP monitoring data.
+- Sanitation & Pre-Operational Hygiene: Daily pre-operational sanitation checklists must be completed and documented before production begins.
+- Verification Audits: Weekly HACCP verification audits must be conducted and documented by qualified quality assurance personnel.
+- Supervisor Sign-off: All CCP monitoring sheets, receiving logs, and daily records must be reviewed and signed by a designated HACCP supervisor daily.
+
+7. Mandatory Corrective Action & Product Disposition
+- When any critical limit deviation occurs, a written corrective action log must be initiated. The affected batch must be placed on immediate hold, root cause investigated, and product must NOT be released without QA sign-off.

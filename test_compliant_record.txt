@@ -1,0 +1,26 @@
+HACCP Production Record
+Facility: FreshBite Foods Pvt. Ltd.
+Product: Ready-to-Eat Chicken Wrap
+Batch: HACCP_Compliant_Demo
+Audit Scenario: COMPLIANT
+
+| Field | Value |
+| Receiving Temperature | 3°C |
+| Cooking Temperature | 77°C |
+| Cooling Time | 85 min |
+| Cold Storage | 4°C |
+| Supervisor Signature | Present |
+| Sanitation Checklist | Completed |
+| Calibration Certificate | Attached |
+| Weekly HACCP Audit | Completed |
+
+Hazard Analysis
+Biological, chemical and physical hazards identified, assessed and controlled for all CCPs.
+
+CCP Monitoring
+Receiving log signed by operator and supervisor.
+Cooking CCP verified with digital probe.
+Cooling log completed with timestamps.
+
+Verification & Record Keeping
+All records, calibration, sanitation verification and operator training documents are attached. No corrective action required.

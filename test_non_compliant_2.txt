@@ -1,0 +1,21 @@
+HACCP Production Record – Non-Compliant Example
+Audit Status: NON-COMPLIANT
+
+Facility Details
+Facility: FreshBite Foods Pvt. Ltd.
+Product: Ready-to-Eat Chicken Wrap
+Batch: NC-2026-0815
+
+Critical Findings
+Receiving temperature: 9°C
+Cooking temperature: 68°C
+Cooling took 3.5 hours
+Cold storage: 6°C
+Supervisor signature missing
+Sanitation checklist missing
+No corrective action documented
+
+Required Action
+Isolate batch immediately
+Investigate root cause
+Complete monitoring records before approval

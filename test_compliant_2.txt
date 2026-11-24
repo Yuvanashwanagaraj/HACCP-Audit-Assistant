@@ -1,0 +1,41 @@
+HACCP Production Record – Compliant Example
+Audit Status: COMPLIANT
+
+Facility Details
+Facility: FreshBite Foods Pvt. Ltd.
+Product: Ready-to-Eat Chicken Wrap
+Batch: C-2026-0815
+Production Date: 15-08-2026
+
+Receiving CCP
+Raw chicken temperature: 3°C
+Time: 08:10 AM
+Operator: Anjali K
+Supervisor: Rajesh M
+Signed & Verified
+
+Cooking CCP
+Required: ≥75°C
+Actual: 77°C for 18 seconds
+Time: 10:42 AM
+Supervisor verification completed
+
+Cooling
+Final temperature: 4°C
+Cooling completed in 85 minutes
+
+Cold Storage
+Storage maintained at 4°C
+Continuous sensor monitoring
+
+Sanitation & Verification
+Daily sanitation checklist completed
+Equipment swab report: PASS
+Quarterly sanitation verification completed
+Weekly HACCP audit completed
+Thermometer calibrated on 01-08-2026
+
+Record Keeping
+Receiving, cooking and cooling logs attached
+CCP monitoring sheet complete
+No corrective action required

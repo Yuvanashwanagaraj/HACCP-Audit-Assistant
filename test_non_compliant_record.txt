@@ -1,0 +1,26 @@
+HACCP Production Record
+Facility: FreshBite Foods Pvt. Ltd.
+Product: Ready-to-Eat Chicken Wrap
+Batch: HACCP_NonCompliant_Demo
+Audit Scenario: NON-COMPLIANT
+
+| Field | Value |
+| Receiving Temperature | 9°C |
+| Cooking Temperature | 68°C |
+| Cooling Time | 210 min |
+| Cold Storage | 6°C |
+| Supervisor Signature | Missing |
+| Sanitation Checklist | Missing |
+| Calibration Certificate | Expired |
+| Weekly HACCP Audit | Not conducted |
+
+Hazard Analysis
+No documented hazard analysis available.
+
+CCP Monitoring
+Receiving log incomplete.
+Cooking below critical limit.
+Cooling exceeded limit.
+
+Verification & Record Keeping
+Multiple mandatory records missing. Corrective action log absent. Batch must not be released.
